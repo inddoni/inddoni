@@ -1,4 +1,5 @@
 <div>
+<div>
 <div style="float: left;">
 
 ## Hi there! 🙂✨
@@ -9,6 +10,7 @@
 
 **I'm an iOS Developer @inddoni**
 
+</div>
 </div>
 
 <div align=right style="float: right;">

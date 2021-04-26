@@ -2,19 +2,16 @@
 <div align=center>
 
 ## Hi there! 🙂✨
-
-
-**I'm an iOS Developer @inddoni**
-
-**🌱 I’m currently learning** 
-Swift, RxSwift and SwiftUI
-
-**📫 How to reach me** 
-Email choinj97@gmail.com / Instargram @leanjeong
+**I'm an iOS Developer🍎 @inddoni** <br><br>
+**🌱 I’m currently learning** Swift, RxSwift and SwiftUI <br>
+and **I'm also studying** intelligent systems. <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inddoni&show_icons=true&theme=buefy&hide=issues,stars&count_private=true) <!--contribs-->
 
 </div>
+
+<!-- **📫 How to reach me** <br>
+Instargram `@leanjeong` / Blog `https://inddoni.github.io/` -->
 
 <!-- <div align = right style="float: right;">
 

@@ -6,7 +6,7 @@
 
 **I'm an iOS Developer @inddoni**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inddoni&show_icons=true&theme=tokyonight&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inddoni&show_icons=true&theme=buefy&hide=issues,stars&count_private=true) <!--contribs-->
 
 
 **🌱 I’m currently learning** 

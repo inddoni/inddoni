@@ -2,7 +2,7 @@
 <div align=center>
 
 ## Hi there! 🙂✨
-**I'm an iOS Developer🍎 @inddoni** <br>
+**I'm an iOS Engineer🍎 @inddoni** <br>
 **I’m currently learning** Swift, RxSwift and SwiftUI <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inddoni&show_icons=true&theme=buefy&hide=issues,stars&count_private=true) <!--contribs-->
